@@ -1,2 +1,5 @@
 flask
 gunicorn
+botbuilder-core
+botbuilder-schema
+aiohttp
